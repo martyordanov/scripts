@@ -1,2 +1,7 @@
-# scripts
-Various scripts worth keeping track of
+# Scripts
+Various scripts worth keeping track of.
+
+## Bash scripts
+
+## Python scripts
+
