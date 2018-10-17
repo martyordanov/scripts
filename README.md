@@ -7,5 +7,9 @@ Various scripts worth keeping track of.
 hosting rc files, to be deployed on a fresh linux install or different machine.
 [More info](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
 
+* `change_audio_device.sh` - #This script makes it easy to map the long cli
+  commands to key combinations.  #Use pacmd list-sinks to get the names of
+  available devices.
+
 ## Python scripts
 
